@@ -158,5 +158,5 @@ nav a:hover {
     text-decoration: underline;
 }
 body {
-    min-height: 140vh; /* 100% výšky obrazovky */
+    min-height: 150vh; /* 100% výšky obrazovky */
 }
