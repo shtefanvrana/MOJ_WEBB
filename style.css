@@ -16,7 +16,7 @@ h1 {
 
 /* Celá stránka */
 body {
-    background: linear-gradient(135deg, #f1f506, #000000);
+    background: linear-gradient(135deg, #ffffff, #99abc1);
     display: flex;
     justify-content: center;
     align-items: center;
